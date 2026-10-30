@@ -9,8 +9,8 @@ Library for Arduino and CashCode Bill Validator for Russian banknotes
  *  void reset(); -- reset bill validator (also helps if banknote got stuck).
 
 # Pinout
-![Power](extras/Power.JPG)
+![Power](Power.JPG)
 1 PIN - +12V; 2 PIN - GND
-![Data](extras/Data.JPG)
+![Data](Data.JPG)
 11 PIN - RX0 (Arduino); 16 PIN - TX1 (Arduino)
 
