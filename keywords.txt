@@ -1,0 +1,25 @@
+# -----------------------------------------
+# Syntax colouring for CashCode_CCNET_RUS library
+# -----------------------------------------
+
+
+##################################################
+# Datatypes (such as objects)(KEYWORD1)
+##################################################
+CashCode_CCNET_RUS			KEYWORD1
+
+
+##################################################
+# Methods / functions (KEYWORD2)
+##################################################
+reset 					KEYWORD2
+enable 					KEYWORD2
+disable 				KEYWORD2
+getBanknote 				KEYWORD2
+update 				KEYWORD2
+
+
+
+##################################################
+
+
